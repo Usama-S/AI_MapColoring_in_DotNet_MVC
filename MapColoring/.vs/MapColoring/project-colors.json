@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "92edd5b1-9f76-4908-a042-6236c02006f5": {
+      "ProjectGuid": "92edd5b1-9f76-4908-a042-6236c02006f5",
+      "DisplayName": "MapColoring",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

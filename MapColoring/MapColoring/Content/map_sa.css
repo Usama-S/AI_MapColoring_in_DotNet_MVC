@@ -1,0 +1,49 @@
+﻿#map {
+    background-image: url('map_sa.jpg');
+}
+
+
+/*Limpopo*/
+#prov0 {
+    margin: 70px 0px 0px 480px;
+}
+
+/*North West*/
+#prov1 {
+    margin: 220px 0px 0px 330px;
+}
+
+/*Gauteng*/
+#prov2 {
+    margin: 180px 0px 0px 430px;
+}
+
+/*Mpumalanga*/
+#prov3 {
+    margin: 190px 0px 0px 510px;
+}
+
+/*Northern Cape*/
+#prov4 {
+    margin: 350px 0px 0px 210px;
+}
+
+/*Free State*/
+#prov5 {
+    margin: 300px 0px 0px 380px;
+}
+
+/*KawaZulu-Natal*/
+#prov6 {
+    margin: 300px 0px 0px 520px;
+}
+
+/*Western Cape*/
+#prov7 {
+    margin: 560px 0px 0px 170px;
+}
+
+/*Eastern Cape*/
+#prov8 {
+    margin: 480px 0px 0px 370px;
+}

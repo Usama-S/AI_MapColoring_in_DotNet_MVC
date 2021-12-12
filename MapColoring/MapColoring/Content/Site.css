@@ -1,0 +1,45 @@
+﻿
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+#control-content {
+    position: relative;
+    float: left
+}
+
+#map-content {
+    position: relative;
+    float: left;
+    padding: 20px;
+}
+
+.txtDanger {
+    color: red;
+    display: none;
+}
+
+#map {
+    height: 700px;
+    width: 700px;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.province {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    background-color: white;
+    border: 1px solid black;
+    display: grid;
+    align-items: center;
+    text-align: center;
+    z-index: 10;
+    position: absolute;
+}
+

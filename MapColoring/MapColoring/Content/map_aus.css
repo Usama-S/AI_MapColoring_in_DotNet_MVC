@@ -1,0 +1,39 @@
+﻿#map {
+    background-image: url('map_aus.png');
+}
+
+
+/*Western Australia*/
+#prov0 {
+    margin: 300px 0px 0px 120px;
+}
+
+/*Northern Territory*/
+#prov1 {
+    margin: 150px 0px 0px 330px;
+}
+
+/*Queensland*/
+#prov2 {
+    margin: 200px 0px 0px 500px;
+}
+
+/*South Australia*/
+#prov3 {
+    margin: 360px 0px 0px 360px;
+}
+
+/*New South Wales*/
+#prov4 {
+    margin: 420px 0px 0px 530px;
+}
+
+/*Victoria*/
+#prov5 {
+    margin: 520px 0px 0px 500px;
+}
+
+/*Tasmania*/
+#prov6 {
+    margin: 620px 0px 0px 510px;
+}

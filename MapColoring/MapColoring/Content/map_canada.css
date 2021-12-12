@@ -1,0 +1,64 @@
+﻿#map {
+    background-image: url('map_canada.png');
+}
+
+
+/*Yukon*/
+#prov0 {
+    margin: 200px 0px 0px 100px;
+}
+
+/*Northwest Territories*/
+#prov1 {
+    margin: 270px 0px 0px 170px;
+}
+
+/*Nunavut*/
+#prov2 {
+    margin: 260px 0px 0px 280px;
+}
+
+/*British Columbia*/
+#prov3 {
+    margin: 350px 0px 0px 100px;
+}
+
+/*Alberta*/
+#prov4 {
+    margin: 400px 0px 0px 150px;
+}
+
+/*Saskatchewan*/
+#prov5 {
+    margin: 450px 0px 0px 200px;
+}
+
+/*Manitoba*/
+#prov6 {
+    margin: 400px 0px 0px 270px;
+}
+
+/*Ontario*/
+#prov7 {
+    margin: 460px 0px 0px 320px;
+}
+
+/*Quebec*/
+#prov8 {
+    margin: 430px 0px 0px 420px;
+}
+
+/*New Brunswick*/
+#prov9 {
+    margin: 490px 0px 0px 470px;
+}
+
+/*New Foundlan & Labrador*/
+#prov10 {
+    margin: 380px 0px 0px 490px;
+}
+
+/*Nova Scotia*/
+#prov11 {
+    margin: 500px 0px 0px 530px;
+}

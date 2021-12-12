@@ -1,0 +1,47 @@
+﻿#map {
+    height: 700px;
+    width: 700px;
+    /*position: fixed;*/
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-image: url('map_pakistan.jpg');
+}
+
+.province {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    background-color: white;
+    border: 1px solid black;
+    display: grid;
+    align-items: center;
+    text-align: center;
+    z-index: 10;
+    position: absolute;
+}
+
+
+/*gb*/
+#prov0 {
+    margin: 90px 0px 0px 550px;
+}
+
+/*kpk*/
+#prov1 {
+    margin: 150px 0px 0px 340px;
+}
+
+/*punjab*/
+#prov2 {
+    margin: 300px 0px 0px 390px;
+}
+
+/*baluchistan*/
+#prov3 {
+    margin: 430px 0px 0px 130px;
+}
+
+/*sindh*/
+#prov4 {
+    margin: 550px 0px 0px 260px;
+}
